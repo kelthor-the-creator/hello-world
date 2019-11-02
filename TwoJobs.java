@@ -1,4 +1,3 @@
-package solutions.lab2;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
