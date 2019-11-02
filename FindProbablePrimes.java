@@ -1,4 +1,3 @@
-package solutions.lab2;
 
 import java.math.BigInteger;
 import java.util.HashMap;
