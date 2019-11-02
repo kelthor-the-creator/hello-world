@@ -1,4 +1,3 @@
-package solutions.lab2;
 
 import java.util.ArrayList;
 import java.util.List;
