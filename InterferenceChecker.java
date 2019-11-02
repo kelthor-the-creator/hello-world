@@ -1,4 +1,3 @@
-package solutions.lab2;
 
 public class InterferenceChecker implements Runnable {
 	public static Object lock = new Object();
